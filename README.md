@@ -1,2 +1,2 @@
-# SalasKu-
+# SalesKu-
 Digital Marketing Tool
